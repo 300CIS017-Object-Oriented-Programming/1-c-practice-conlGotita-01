@@ -1,0 +1,17 @@
+
+***********SOLVED***********
+
+1. Hello World
+2. Input and Output pt1
+3. Input and Output pt2
+4. Basic Data Types
+5. Conditional Statements
+6. For Loop
+7. Functions
+8. Pointer
+9. Arrays Introduction
+10. Variable Sized Arrays
+11. String Stream (I have a bug that I didn't know how to fix.)
+12. Strings
+13. Class
+14. Class and Objects (I don't know if it looks good because the page is down.)
